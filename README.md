@@ -1,4 +1,4 @@
-# rockpaperscissorsJava
+# Rock Paper Scissors Java
 
 A rock paper scissors app I created with Java as a mini project for my Interapt/General Assembly software engineering immersive.
 
